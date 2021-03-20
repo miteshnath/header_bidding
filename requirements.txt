@@ -30,7 +30,7 @@ ipaddress==1.0.22
 ipython==5.5.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 kombu==4.2.1
 macholib==1.5.1
